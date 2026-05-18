@@ -1,5 +1,5 @@
 ## Internship Name
-OIBSIP Internship
+Oasis Infobyte
 ## Domain
 Data Science
 ## Internship Task
